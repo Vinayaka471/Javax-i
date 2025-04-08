@@ -1,5 +1,6 @@
 package com.xworkz.juice.FiftyRunner;
 
+import com.xworkz.juice.fiftyfold.transportation.Bus;
 import com.xworkz.juice.fiftyfold.transportation.Train;
 import com.xworkz.juice.fiftyfold.transportation.Transportation;
 
@@ -20,5 +21,9 @@ public class TransportationRunner {
         train.fuel();
         train.capacity();
         train.type();
+
+        System.out.println("-------------------");
+        Bus bus=new Bus();
+        bus.Road(transport);
     }
 }

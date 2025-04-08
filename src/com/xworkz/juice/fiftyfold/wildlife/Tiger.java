@@ -1,6 +1,6 @@
 package com.xworkz.juice.fiftyfold.wildlife;
 
-public class Tiger extends wildlife {
+public class Tiger extends Wildlife {
     public Tiger() {
         super();
         System.out.println("Running non-arg constructor Tiger");

@@ -25,6 +25,11 @@
         public void economy() {
             System.out.println("Area has an economy");
         }
+        public void road(){
+            System.out.println("Road running in Rajajinagar");
+        }
+
+
     }
 
 

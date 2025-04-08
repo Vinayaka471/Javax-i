@@ -1,6 +1,7 @@
 package com.xworkz.juice.FiftyRunner;
 
 
+import com.xworkz.juice.fiftyfold.Juice.Coffee;
 import com.xworkz.juice.fiftyfold.Juice.Juice;
 import com.xworkz.juice.fiftyfold.Juice.Juice;
 
@@ -13,10 +14,15 @@ public class BeverageRunner {
         beverage.refresh();
 
         System.out.println("-----------");
-        Juice coffee = new Juice();
-        coffee.drink();
-        coffee.temperature();
-        coffee.flavor();
-        coffee.refresh();
+        Juice water = new Juice();
+        water.drink();
+        water.temperature();
+        water.flavor();
+        water.refresh();
+
+
+        System.out.println("--------------");
+        Coffee coffee=new Coffee();
+        coffee.Beans(beverage);
     }
 }

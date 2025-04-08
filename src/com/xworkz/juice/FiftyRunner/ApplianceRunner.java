@@ -3,6 +3,7 @@ package com.xworkz.juice.FiftyRunner;
 
 import com.xworkz.juice.fiftyfold.Device.Device;
 import com.xworkz.juice.fiftyfold.Device.Fridge;
+import com.xworkz.juice.fiftyfold.Device.Watch;
 
 public class ApplianceRunner {
     public static void main(String[] args) {
@@ -21,5 +22,10 @@ public class ApplianceRunner {
         washingMachine.consumeElectricity();
         washingMachine.function();
         washingMachine.brand();
+
+
+        System.out.println("-------------------");
+        Watch watch=new Watch();
+        watch.Time(appliance);
     }
 }

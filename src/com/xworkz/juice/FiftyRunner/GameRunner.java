@@ -1,6 +1,7 @@
 package com.xworkz.juice.FiftyRunner;
 
 import com.xworkz.juice.fiftyfold.game.Chess;
+import com.xworkz.juice.fiftyfold.game.Cricket;
 import com.xworkz.juice.fiftyfold.game.Game;
 
 public class GameRunner {
@@ -20,5 +21,9 @@ public class GameRunner {
         chess.opponent();
         chess.winner();
         chess.duration();
+
+        System.out.println("------------------");
+        Cricket cricket=new Cricket();
+        cricket.Batting(game);
     }
 }

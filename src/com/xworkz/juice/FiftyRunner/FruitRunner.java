@@ -3,6 +3,7 @@ package com.xworkz.juice.FiftyRunner;
 
 import com.xworkz.juice.fiftyfold.fruit.Apple;
 import com.xworkz.juice.fiftyfold.fruit.Fruit;
+import com.xworkz.juice.fiftyfold.fruit.Mango;
 
 public class FruitRunner {
     public static void main(String[] args) {
@@ -18,5 +19,10 @@ public class FruitRunner {
         apple.color();
         apple.nutrients();
         apple.seasonal();
+
+
+        System.out.println("---------------");
+        Mango mango=new Mango();
+        mango.Yellow(fruit);
     }
 }

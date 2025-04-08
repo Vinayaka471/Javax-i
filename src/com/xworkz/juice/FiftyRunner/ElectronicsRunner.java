@@ -1,6 +1,7 @@
 package com.xworkz.juice.FiftyRunner;
 
 
+import com.xworkz.juice.fiftyfold.Equipment.Calculator;
 import com.xworkz.juice.fiftyfold.Equipment.Equipment;
 import com.xworkz.juice.fiftyfold.Equipment.Laptop;
 
@@ -19,6 +20,10 @@ public class ElectronicsRunner {
             mobile.powerOff();
             mobile.battery();
             mobile.charge();
+
+            System.out.println("--------------");
+            Calculator calculator=new Calculator();
+            calculator.Count(device);
         }
     }
 

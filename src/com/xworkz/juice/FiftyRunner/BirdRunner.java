@@ -3,6 +3,7 @@ package com.xworkz.juice.FiftyRunner;
 
 import com.xworkz.juice.fiftyfold.Aves.Aves;
 import com.xworkz.juice.fiftyfold.Aves.Crow;
+import com.xworkz.juice.fiftyfold.Aves.Parrot;
 
 public class BirdRunner {
     public static void main(String[] args) {
@@ -21,5 +22,10 @@ public class BirdRunner {
         eagle.laysEggs();
         eagle.sound();
         eagle.vision();
+
+
+        System.out.println("-------------------");
+        Parrot parrot=new Parrot();
+        parrot.color(bird);
     }
 }

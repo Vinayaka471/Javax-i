@@ -2,6 +2,7 @@ package com.xworkz.juice.FiftyRunner;
 
 import com.xworkz.juice.fiftyfold.prof.Engineer;
 import com.xworkz.juice.fiftyfold.prof.Proffession;
+import com.xworkz.juice.fiftyfold.prof.Teacher;
 
 public class ProfessionRunner {
     public static void main(String[] args) {
@@ -17,5 +18,10 @@ public class ProfessionRunner {
         engineer.salary();
         engineer.skills();
         engineer.education();
+
+
+        System.out.println("--------------------");
+        Teacher teacher=new Teacher();
+        teacher.Staff(profession);
     }
 }

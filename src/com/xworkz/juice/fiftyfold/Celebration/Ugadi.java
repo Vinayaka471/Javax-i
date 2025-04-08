@@ -21,4 +21,8 @@ public class Ugadi extends Celebration {
     public void food() {
         System.out.println("Festivals have special food items");
     }
+    @Override
+    public void dress() {
+        System.out.println("Festival have new dress");
+    }
 }

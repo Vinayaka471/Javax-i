@@ -1,6 +1,7 @@
 package com.xworkz.juice.FiftyRunner;
 
 import com.xworkz.juice.fiftyfold.Peak.Everest;
+import com.xworkz.juice.fiftyfold.Peak.Kailash;
 import com.xworkz.juice.fiftyfold.Peak.Peak;
 
 public class MountainRunner {
@@ -20,5 +21,10 @@ public class MountainRunner {
         everest.location();
         everest.trekking();
         everest.wildlife();
+
+
+        System.out.println("-------------------");
+        Kailash kailash=new Kailash();
+        kailash.Snow(mountain);
     }
 }

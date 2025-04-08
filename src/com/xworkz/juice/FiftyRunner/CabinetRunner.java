@@ -3,6 +3,7 @@ package com.xworkz.juice.FiftyRunner;
 
 import com.xworkz.juice.fiftyfold.Cabinet.Cabinet;
 import com.xworkz.juice.fiftyfold.Cabinet.Locker;
+import com.xworkz.juice.fiftyfold.Cabinet.Step;
 
 public class CabinetRunner {
     public static void main(String[] args) {
@@ -20,6 +21,12 @@ public class CabinetRunner {
         door.handle();
         door.open();
         door.lock();
+
+
+        System.out.println("-------------------");
+        Step step=new Step();
+        step.One(caboard);
+
 
     }
 

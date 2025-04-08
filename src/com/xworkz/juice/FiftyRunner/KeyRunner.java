@@ -1,5 +1,6 @@
 package com.xworkz.juice.FiftyRunner;
 
+import com.xworkz.juice.fiftyfold.lock.Gate;
 import com.xworkz.juice.fiftyfold.lock.Key;
 import com.xworkz.juice.fiftyfold.lock.Seal;
 
@@ -19,5 +20,10 @@ public class KeyRunner {
         lock.open();
         lock.white();
         lock.small();
+
+
+        System.out.println("---------------");
+        Gate gate=new Gate();
+        gate.Enter(key);
     }
 }

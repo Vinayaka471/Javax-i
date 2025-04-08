@@ -1,5 +1,6 @@
 package com.xworkz.juice.FiftyRunner;
 
+import com.xworkz.juice.fiftyfold.season.Rainy;
 import com.xworkz.juice.fiftyfold.season.Season;
 import com.xworkz.juice.fiftyfold.season.Winter;
 
@@ -20,5 +21,10 @@ public class SeasonRunner {
         winter.activities();
         winter.temperature();
         winter.impact();
+
+
+        System.out.println("----------------");
+        Rainy rainy=new Rainy();
+        rainy.Cloud(season);
     }
 }

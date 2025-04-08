@@ -1,6 +1,7 @@
 package com.xworkz.juice.FiftyRunner;
 
 import com.xworkz.juice.fiftyfold.shape.Circle;
+import com.xworkz.juice.fiftyfold.shape.Rectangle;
 import com.xworkz.juice.fiftyfold.shape.Shape;
 
 public class ShapeRunner {
@@ -19,5 +20,10 @@ public class ShapeRunner {
         circle.perimeter();
         circle.color();
         circle.dimension();
+
+
+        System.out.println("---------------");
+        Rectangle rectangle=new Rectangle();
+        rectangle.Triangle(shape);
     }
 }

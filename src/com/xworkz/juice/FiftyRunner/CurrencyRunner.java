@@ -1,8 +1,10 @@
 package com.xworkz.juice.FiftyRunner;
 
 
+import com.xworkz.juice.fiftyfold.Money.Euro;
 import com.xworkz.juice.fiftyfold.Money.Money;
 import com.xworkz.juice.fiftyfold.Money.Rupee;
+import com.xworkz.juice.fiftyfold.currency.Coin;
 
 public class CurrencyRunner {
     public static void main(String[] args) {
@@ -17,5 +19,10 @@ public class CurrencyRunner {
         dollar.value();
         dollar.exchangeRate();
         dollar.symbol();
+
+
+        System.out.println("----------------");
+        Euro euro=new Euro();
+        euro.Paisa(currency);
     }
 }

@@ -1,6 +1,7 @@
 package com.xworkz.juice.FiftyRunner;
 
 import com.xworkz.juice.fiftyfold.tool.Hammer;
+import com.xworkz.juice.fiftyfold.tool.Spanner;
 import com.xworkz.juice.fiftyfold.tool.Tool;
 
 public class ToolRunner {
@@ -17,5 +18,10 @@ public class ToolRunner {
         hammer.material();
         hammer.grip();
         hammer.durability();
+
+
+        System.out.println("-------------------");
+        Spanner spanner=new Spanner();
+        spanner.Steel(tool);
     }
 }

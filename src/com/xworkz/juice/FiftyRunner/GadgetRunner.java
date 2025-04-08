@@ -1,6 +1,7 @@
 package com.xworkz.juice.FiftyRunner;
 
 import com.xworkz.juice.fiftyfold.gadget.Gadget;
+import com.xworkz.juice.fiftyfold.gadget.Headphone;
 import com.xworkz.juice.fiftyfold.gadget.Tablet;
 
 public class GadgetRunner {
@@ -20,5 +21,10 @@ public class GadgetRunner {
         tablet.charge();
         tablet.connect();
         tablet.brand();
+
+
+        System.out.println("------------------");
+        Headphone headphone=new Headphone();
+        headphone.Music(gadget);
     }
 }

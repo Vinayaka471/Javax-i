@@ -1,5 +1,6 @@
 package com.xworkz.juice.FiftyRunner;
 
+import com.xworkz.juice.fiftyfold.Money.Euro;
 import com.xworkz.juice.fiftyfold.Money.Money;
 import com.xworkz.juice.fiftyfold.Money.Rupee;
 
@@ -17,5 +18,8 @@ public class CurrRunner {
         dollar.exchangeRate();
         dollar.symbol();
         dollar.usage();
+
+        Euro euro=new Euro();
+        euro.Paisa(currency);
     }
 }

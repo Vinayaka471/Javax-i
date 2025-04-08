@@ -1,7 +1,7 @@
 package com.xworkz.juice.fiftyfold.wildlife;
 
-public class wildlife {
-    public wildlife() {
+public class Wildlife {
+    public Wildlife() {
         System.out.println("Running non-arg constructor wildlife");
     }
     public void eat() {

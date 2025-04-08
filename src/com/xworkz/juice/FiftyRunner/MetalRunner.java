@@ -1,5 +1,6 @@
 package com.xworkz.juice.FiftyRunner;
 
+import com.xworkz.juice.fiftyfold.metal.Magnesium;
 import com.xworkz.juice.fiftyfold.metal.Silver;
 import com.xworkz.juice.fiftyfold.metal.Metal;
 
@@ -20,5 +21,10 @@ public class MetalRunner {
         gold.malleability();
         gold.density();
         gold.corrosion();
+
+
+        System.out.println("---------------");
+        Magnesium magnesium=new Magnesium();
+        magnesium.Nitrogen(metal);
     }
 }

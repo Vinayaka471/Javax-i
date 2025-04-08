@@ -16,4 +16,7 @@ public class Celebration {
     public void food() {
         System.out.println("Festivals have special food items");
     }
+    public void dress(){
+        System.out.println("Festival have new dress");
+    }
 }

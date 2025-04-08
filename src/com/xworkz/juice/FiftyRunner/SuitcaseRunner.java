@@ -1,5 +1,6 @@
 package com.xworkz.juice.FiftyRunner;
 
+import com.xworkz.juice.fiftyfold.suitcase.Bag;
 import com.xworkz.juice.fiftyfold.suitcase.Suitcase;
 import com.xworkz.juice.fiftyfold.suitcase.Zip;
 
@@ -19,6 +20,11 @@ public class SuitcaseRunner {
         zip.noOfZip();
         zip.open();
         zip.small();
+
+
+        System.out.println("-------------------");
+        Bag bag=new Bag();
+        bag.Adidas(suitcase);
 
 
     }

@@ -20,3 +20,6 @@ public class Cloth {
         System.out.println("Cloth has designs");
     }
 }
+
+
+

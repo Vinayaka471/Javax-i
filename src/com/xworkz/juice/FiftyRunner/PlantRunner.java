@@ -1,8 +1,9 @@
 package com.xworkz.juice.FiftyRunner;
 
 import com.xworkz.juice.fiftyfold.Blossom.Blossom;
-import com.xworkz.juice.fiftyfold.Blossom.Flower;
+import com.xworkz.juice.fiftyfold.Blossom.*;
 import com.xworkz.juice.fiftyfold.Herb.Herb;
+import com.xworkz.juice.fiftyfold.Herb.Stem;
 
 public class PlantRunner {
     public static void main(String[] args) {
@@ -21,5 +22,9 @@ public class PlantRunner {
         flower.fragrance();
         flower.pollination();
         flower.petals();
+
+        System.out.println("----------------");
+        Stem stem=new Stem();
+        stem.Sepal(plant);
     }
 }

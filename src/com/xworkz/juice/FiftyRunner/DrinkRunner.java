@@ -2,6 +2,7 @@ package com.xworkz.juice.FiftyRunner;
 
 import com.xworkz.juice.fiftyfold.drink.Drink;
 import com.xworkz.juice.fiftyfold.drink.Juice;
+import com.xworkz.juice.fiftyfold.drink.Soda;
 
 public class DrinkRunner {
     public static void main(String[] args) {
@@ -19,6 +20,11 @@ public class DrinkRunner {
         juice.cold();
         juice.sweet();
         juice.healthy();
+
+
+        System.out.println("-----------------");
+        Soda soda=new Soda();
+        soda.Water(drink);
 
     }
 }

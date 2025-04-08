@@ -2,6 +2,7 @@ package com.xworkz.juice.FiftyRunner;
 
 import com.xworkz.juice.fiftyfold.food.Burger;
 import com.xworkz.juice.fiftyfold.food.Food;
+import com.xworkz.juice.fiftyfold.food.Pizza;
 
 public class FoodRunner {
     public static void main(String[] args) {
@@ -19,6 +20,10 @@ public class FoodRunner {
         burger.cook();
         burger.healthy();
         burger.spicy();
+
+        System.out.println("-----------------");
+        Pizza pizza=new Pizza();
+        pizza.Buy(food);
 
     }
 }

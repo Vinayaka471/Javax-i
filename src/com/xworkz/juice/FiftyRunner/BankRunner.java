@@ -20,5 +20,9 @@ public class BankRunner {
         hdfcBank.interest();
         hdfcBank.atm();
 
+        System.out.println("---------------");
+        Canara canara=new Canara();
+        canara.Loan(bank);
+
     }
 }

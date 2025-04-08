@@ -2,6 +2,7 @@ package com.xworkz.juice.FiftyRunner;
 
 import com.xworkz.juice.fiftyfold.Sea.Sea;
 import com.xworkz.juice.fiftyfold.Sea.Redsea;
+import com.xworkz.juice.fiftyfold.Sea.SouthPacific;
 
 public class OceanRunner {
     public static void main(String[] args) {
@@ -20,5 +21,10 @@ public class OceanRunner {
         pacific.waves();
         pacific.temperature();
         pacific.tides();
+
+
+        System.out.println("-------------");
+        SouthPacific southPacific= new SouthPacific();
+        southPacific.South(ocean);
     }
 }

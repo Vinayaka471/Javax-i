@@ -1,7 +1,7 @@
 package com.xworkz.juice.fiftyfold.Cloth;
 
-public class jeans extends Cloth {
-    public jeans() {
+public class Jeans extends Cloth    {
+    public Jeans() {
         super();
         System.out.println("Running non-arg constructor TShirt");
     }
@@ -25,4 +25,5 @@ public class jeans extends Cloth {
     public void design() {
         System.out.println("Cloth has designs");
     }
+
 }

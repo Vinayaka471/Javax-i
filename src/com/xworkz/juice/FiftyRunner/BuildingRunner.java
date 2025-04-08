@@ -3,6 +3,7 @@ package com.xworkz.juice.FiftyRunner;
 
 import com.xworkz.juice.fiftyfold.Compound.Compound;
 import com.xworkz.juice.fiftyfold.Compound.Home;
+import com.xworkz.juice.fiftyfold.Compound.Tower;
 
 public class BuildingRunner {
     public static void main(String[] args) {
@@ -18,5 +19,10 @@ public class BuildingRunner {
         home.structure();
         home.floors();
         home.foundation();
+
+
+        System.out.println("--------------");
+        Tower tower=new Tower();
+        tower.Height(compound);
     }
 }

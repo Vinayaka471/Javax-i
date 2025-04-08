@@ -1,6 +1,7 @@
 package com.xworkz.juice.FiftyRunner;
 
 import com.xworkz.juice.fiftyfold.sports.Football;
+import com.xworkz.juice.fiftyfold.sports.Kabaddi;
 import com.xworkz.juice.fiftyfold.sports.Sports;
 
 public class SportsRunner {
@@ -20,5 +21,8 @@ public class SportsRunner {
         football.competition();
         football.team();
         football.training();
+
+        Kabaddi kabaddi=new Kabaddi();
+        kabaddi.Raid(sport);
     }
 }

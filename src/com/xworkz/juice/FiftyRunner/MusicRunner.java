@@ -1,6 +1,7 @@
 package com.xworkz.juice.FiftyRunner;
 
 
+import com.xworkz.juice.fiftyfold.MusicInstrument.Flute;
 import com.xworkz.juice.fiftyfold.MusicInstrument.Guitar;
 import com.xworkz.juice.fiftyfold.MusicInstrument.MusicInstrument;
 
@@ -21,5 +22,9 @@ public class MusicRunner {
         guitar.type();
         guitar.maintenance();
         guitar.brand();
+
+        System.out.println("--------------");
+        Flute flute=new Flute();
+        flute.Melody(instrument);
     }
 }

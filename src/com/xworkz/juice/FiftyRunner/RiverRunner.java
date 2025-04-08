@@ -1,5 +1,6 @@
 package com.xworkz.juice.FiftyRunner;
 
+import com.xworkz.juice.fiftyfold.Stream.Jogfalls;
 import com.xworkz.juice.fiftyfold.Stream.Sharavathi;
 
 public class RiverRunner {
@@ -14,5 +15,9 @@ public class RiverRunner {
         sharavathi.flows();
         sharavathi.providesWater();
         sharavathi.wildlife();
+
+        System.out.println("----------------");
+        Jogfalls jogfalls=new Jogfalls();
+        jogfalls.Sagara(sharavathi);
     }
 }

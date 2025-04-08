@@ -3,6 +3,7 @@ package com.xworkz.juice.FiftyRunner;
 import com.xworkz.juice.fiftyfold.planet.Jupitar;
 import com.xworkz.juice.fiftyfold.planet.Jupitar;
 import com.xworkz.juice.fiftyfold.planet.Planet;
+import com.xworkz.juice.fiftyfold.planet.Venus;
 
 public class PlanettRunner {
     public static void main(String[] args) {
@@ -21,5 +22,10 @@ public class PlanettRunner {
         earth.hasAtmosphere();
         earth.supportsLife();
         earth.hasOceans();
+
+
+        System.out.println("-----------------");
+        Venus venus=new Venus();
+        venus.Bright(planet);
     }
 }

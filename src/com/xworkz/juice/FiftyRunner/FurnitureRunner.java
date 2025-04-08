@@ -1,6 +1,7 @@
 package com.xworkz.juice.FiftyRunner;
 
 
+import com.xworkz.juice.fiftyfold.furniture.Bed;
 import com.xworkz.juice.fiftyfold.furniture.Chair;
 import com.xworkz.juice.fiftyfold.furniture.Furniture;
 
@@ -21,5 +22,10 @@ public class FurnitureRunner {
         chair.weight();
         chair.move();
         chair.design();
+
+
+        System.out.println("------------------");
+        Bed bed=new Bed();
+        bed.Sleep(furniture);
     }
 }

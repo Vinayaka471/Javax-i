@@ -5,7 +5,7 @@ import com.xworkz.juice.fiftyfold.tree.Tree;
 
 public class TreeRunner {
     public static void main(String[] args) {
-        Tree tree = new plant();
+        Tree tree = new Plant();
         tree.roots();
         tree.branches();
         tree.leaves();
@@ -14,11 +14,16 @@ public class TreeRunner {
 
         System.out.println("-----------");
 
-        plant oak = new plant();
+        Plant oak = new Plant();
         oak.roots();
         oak.branches();
         oak.leaves();
         oak.oxygen();
         oak.lifespan();
+
+
+        System.out.println("----------------");
+        Flower flower=new Flower();
+        flower.Fruit(tree);
     }
 }

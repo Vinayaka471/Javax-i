@@ -1,6 +1,7 @@
 package com.xworkz.juice.FiftyRunner;
 
 import com.xworkz.juice.fiftyfold.phone.Cellphone;
+import com.xworkz.juice.fiftyfold.phone.Earphone;
 import com.xworkz.juice.fiftyfold.phone.Phone;
 import com.xworkz.juice.fiftyfold.phone.Cellphone;
 
@@ -20,6 +21,11 @@ public class PhoneRunner {
         smartphone.camera();
         smartphone.battery();
         smartphone.internet();
+
+
+        System.out.println("--------------");
+        Earphone earphone=new Earphone();
+        earphone.Hear(phone);
 
     }
 }

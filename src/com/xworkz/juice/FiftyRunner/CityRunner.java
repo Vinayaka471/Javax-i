@@ -2,6 +2,7 @@ package com.xworkz.juice.FiftyRunner;
 
 
 import com.xworkz.juice.fiftyfold.Area.Area;
+import com.xworkz.juice.fiftyfold.Area.Btm;
 import com.xworkz.juice.fiftyfold.Area.Rajajinagara;
 
 public class CityRunner {
@@ -21,5 +22,10 @@ public class CityRunner {
         newYork.tourism();
         newYork.culture();
         newYork.economy();
+
+        System.out.println("-----------------");
+        Btm btm=new Btm();
+        btm.Traffic(city);
+
     }
 }

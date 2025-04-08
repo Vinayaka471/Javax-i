@@ -1,6 +1,7 @@
 package com.xworkz.juice.FiftyRunner;
 
 
+import com.xworkz.juice.fiftyfold.Region.Africa;
 import com.xworkz.juice.fiftyfold.Region.Europe;
 import com.xworkz.juice.fiftyfold.Region.Region;
 
@@ -21,5 +22,9 @@ public class ContinentRunner {
         asia.culture();
         asia.economy();
         asia.climate();
+
+
+        Africa africa=new Africa();
+        africa.Elephant(continent);
     }
 }

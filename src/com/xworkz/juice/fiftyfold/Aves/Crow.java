@@ -26,4 +26,7 @@ public class Crow extends Aves {
     @Override
     public void vision() {
         System.out.println("Aves has sharp vision");}
+    public void speed(){
+        System.out.println("Crows are in normal speed");
+    }
 }

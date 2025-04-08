@@ -1,6 +1,7 @@
 package com.xworkz.juice.FiftyRunner;
 
 import com.xworkz.juice.fiftyfold.stationery.Pen;
+import com.xworkz.juice.fiftyfold.stationery.Report;
 import com.xworkz.juice.fiftyfold.stationery.Stationery;
 
 public class StationeryRunner {
@@ -17,5 +18,10 @@ public class StationeryRunner {
         pen.erase();
         pen.color();
         pen.size();
+
+
+        System.out.println("---------------");
+        Report report=new Report();
+        report.Pages(stationery);
     }
 }

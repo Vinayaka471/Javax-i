@@ -1,7 +1,7 @@
 package com.xworkz.juice.fiftyfold.tree;
 
-public class plant extends Tree {
-    public plant() {
+public class Plant extends Tree {
+    public Plant() {
         super();
         System.out.println("Running non-arg constructor Oak");
     }

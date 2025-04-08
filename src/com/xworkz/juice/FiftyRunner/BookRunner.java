@@ -21,5 +21,10 @@ public class BookRunner {
         novel.publish();
         novel.genre();
         novel.pages();
+
+        System.out.println("---------------------");
+        Notes notes=new Notes();
+        notes.Chapter(book);
+
     }
 }

@@ -1,6 +1,7 @@
 package com.xworkz.juice.FiftyRunner;
 
 
+import com.xworkz.juice.fiftyfold.Nation.America;
 import com.xworkz.juice.fiftyfold.Nation.Nation;
 import com.xworkz.juice.fiftyfold.Nation.Japan;
 
@@ -20,6 +21,11 @@ public class CountryRunner {
         india.culture();
         india.economy();
         india.government();
+
+
+        System.out.println("---------------");
+        America america=new America();
+        america.Captain(country);
 
 
     }

@@ -1,6 +1,5 @@
 package com.xworkz.juice.FiftyRunner;
 
-import com.xworkz.juice.fiftyfold.wildlife.wildlife;
 import com.xworkz.juice.fiftyfold.wildlife.Tiger;
 
 public class AnimalRunner {

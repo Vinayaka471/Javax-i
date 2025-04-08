@@ -1,6 +1,7 @@
 package com.xworkz.juice.FiftyRunner;
 
 
+import com.xworkz.juice.fiftyfold.Power.Generator;
 import com.xworkz.juice.fiftyfold.Power.Power;
 import com.xworkz.juice.fiftyfold.Power.Cable;
 
@@ -20,6 +21,11 @@ public class ChargerRunner {
         wire.phone();
         wire.small();
         wire.white();
+
+
+        System.out.println("-------------");
+        Generator generator=new Generator();
+        generator.Diesel(charger);
 
     }
 
