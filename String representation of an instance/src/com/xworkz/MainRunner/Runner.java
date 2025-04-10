@@ -2,6 +2,8 @@ package com.xworkz.MainRunner;
 
 import com.xworkz.external.*;
 
+import javax.print.Doc;
+
 public class Runner {
     public static void main(String[] args) {
         Movie movie = new Movie("Appu",4,'A');
@@ -309,8 +311,180 @@ public class Runner {
         System.out.println(" Snake Details:"+snake);
 
         System.out.println("=========================");
-        Clear clear = new Clear("Clear",12,'B');
+        Clear clear = new Clear("White",12,'B');
         System.out.println(" Clear Shampoo Details:"+clear);
+
+        System.out.println("=========================");
+        Towel towel = new Towel("Heaven",50,"Blue");
+        System.out.println(" Towel Details:"+towel);
+
+
+
+        System.out.println("=========================");
+        Wheel wheel= new Wheel("Green",15,'A');
+        System.out.println(" Wheel Soap Details:"+wheel);
+
+        System.out.println("=========================");
+        Vim vim = new Vim("Geeen",20,'A');
+        System.out.println(" Vim Soap Details:"+vim);
+
+        System.out.println("=========================");
+        Blood blood = new Blood("O positive",120,'A');
+        System.out.println(" Blood Details:"+blood);
+
+        System.out.println("=========================");
+        Doctor doctor = new Doctor("Ravi",49,"Ripponpet");
+        System.out.println(" Doctor Details:"+doctor);
+
+
+        System.out.println("=========================");
+        Nurse nurse = new Nurse("Sarojini",52,"Hosanagara");
+        System.out.println(" Nurse Details:"+nurse);
+
+        System.out.println("=========================");
+        Ambulance ambulance = new Ambulance("Emergency Case",15,"Ballari");
+        System.out.println(" Ambulance Details:"+ambulance);
+
+
+        System.out.println("=========================");
+        Bicycle bicycle = new Bicycle("Herculus",1,"Siddhappanagudi");
+        System.out.println(" Bicycle Details:"+bicycle);
+
+        System.out.println("=========================");
+        Rose rose = new Rose("Red",10,'A');
+        System.out.println(" Rose Details:"+rose);
+
+
+        System.out.println("=========================");
+        Rabbit rabbit = new Rabbit("Ruby",9,"Newyork");
+        System.out.println(" Rabbit Details:"+rabbit);
+
+
+
+        System.out.println("=========================");
+        Horse horse = new Horse("Badhshah",5,"Kundapura");
+        System.out.println(" Horse Details:"+horse);
+
+        System.out.println("=========================");
+        Scooter scooter = new Scooter("Chetak",17,"Udupi");
+        System.out.println(" Scooter Details:"+scooter);
+
+
+        System.out.println("=========================");
+        Drip drip = new Drip("Fluid",2,"Bidar");
+        System.out.println(" Drip Details:"+drip);
+
+
+        System.out.println("=========================");
+        Gaurd gaurd = new Gaurd("Forest",122,"khakhi");
+        System.out.println(" Gaurd Details:"+gaurd);
+
+
+        System.out.println("=========================");
+        Taxi taxi = new Taxi("Toyota",89,"Bagalakot");
+        System.out.println(" Taxi Details:"+taxi);
+
+
+        System.out.println("=========================");
+        Trimmer trimmer = new Trimmer("Philips",50,'A');
+        System.out.println(" Gadget Details:"+trimmer);
+
+        System.out.println("=========================");
+        DirtBike dirtBike = new DirtBike("Yamaha",14,"Chikkamagalur");
+        System.out.println(" DirtBike Details:"+dirtBike);
+
+        System.out.println("=========================");
+        SunFlower sunFlower = new SunFlower("Yellow",50,'A');
+        System.out.println(" SunFlower Details:"+sunFlower);
+
+
+        System.out.println("=========================");
+        Rat rat = new Rat("Mushika",64,"Aanegudde");
+        System.out.println(" Rat Details:"+rat);
+
+
+        System.out.println("=========================");
+        Jeans jeans = new Jeans("Denim",130,"Blue");
+        System.out.println(" Jeans Details:"+jeans);
+
+        System.out.println("=========================");
+        Parrot parrot = new Parrot("Kaali",70,"Mumbai");
+        System.out.println(" Parrot Details:"+parrot);
+
+        System.out.println("=========================");
+        Shashi shashi = new Shashi("Pink",14,'B');
+        System.out.println(" Shashi Soap Details:"+shashi);
+
+
+        System.out.println("=========================");
+        DaburRed daburRed = new DaburRed("Red",10,'A');
+        System.out.println(" DaburRed Paste Details:"+daburRed);
+
+        System.out.println("=========================");
+        Colgate colgate = new Colgate("Blue",12,'B');
+        System.out.println(" Colgate Paste Details:"+colgate);
+
+
+        System.out.println("=========================");
+        Sensodyne sensodyne = new Sensodyne("White",7,'C');
+        System.out.println(" Sensodyne Paste Details:"+sensodyne);
+
+        System.out.println("=========================");
+        Barbie barbie = new Barbie("Barbie",46,"London");
+        System.out.println(" Barbie Toy Details:"+barbie);
+
+        System.out.println("=========================");
+        Student student = new Student("Vinayaka",61,'A');
+        System.out.println(" Student Details:"+student);
+
+        System.out.println("=========================");
+        Safari safari = new Safari("Brown",112,'B');
+        System.out.println(" Safari Bag Details:"+safari);
+
+
+        System.out.println("=========================");
+        Banana banana = new Banana("Good",56,4);
+        System.out.println(" Banana Details:"+banana);
+
+
+        System.out.println("=========================");
+        Apple apple = new Apple("Moderate",80,2);
+        System.out.println(" Apple Details:"+apple);
+
+
+
+        System.out.println("=========================");
+        Orange orange = new Orange("Good",60,3);
+        System.out.println(" Orange Details:"+orange);
+
+
+        System.out.println("=========================");
+        Walkmate walkmate = new Walkmate("Lunars",160,"Blue");
+        System.out.println(" Walkmate Details:"+walkmate);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
