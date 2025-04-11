@@ -11,6 +11,13 @@ public class Lorry extends Vehicle {
         this.number=number;
         this.grade=grade;
     }
+    @Override
+    public int hashCode()
+    {
+        System.out.println("Default:"+super.hashCode());
+        return 84;
+    }
+    @Override
     public String toString(){
         return(" Color:"+this.color+" Number:"+this.number+" Grade:"+this.grade);
     }

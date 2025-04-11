@@ -11,6 +11,13 @@ public class Orange extends Fruit {
         this.cost=cost;
         this.kg=kg;
     }
+    @Override
+    public int hashCode()
+    {
+        System.out.println("Default:"+super.hashCode());
+        return 22;
+    }
+    @Override
     public String toString()
     {
         return ("Quality: "+this.quality+" Cost:" +this.cost+" Kg:"+this.kg);

@@ -11,6 +11,13 @@ public class Cindrella extends Toy {
         this.location=location;
         this.number=number;
     }
+    @Override
+    public int hashCode()
+    {
+        System.out.println("Default:"+super.hashCode());
+        return 67;
+    }
+    @Override
     public String toString()
     {
         return ("Brand: "+this.brand+" Location:" +this.location+" Number:"+this.number);

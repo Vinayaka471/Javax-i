@@ -11,6 +11,13 @@ public class Ambulance extends Hospital {
         this.location=location;
         this.number=number;
     }
+    @Override
+    public int hashCode()
+    {
+        System.out.println("Default:"+super.hashCode());
+        return 45;
+    }
+    @Override
     public String toString()
     {
         return ("Name: "+this.name+" Location:" +this.location+" Number:"+this.number);

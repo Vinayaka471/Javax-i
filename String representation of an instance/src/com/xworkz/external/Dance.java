@@ -11,6 +11,13 @@ public class Dance extends Appu {
         this.steps=steps;
         this.grade=grade;
     }
+    @Override
+    public int hashCode()
+    {
+        System.out.println("Default:"+super.hashCode());
+        return 87;
+    }
+    @Override
     public String toString(){
         return (" Name:"+this.name+" Steps:"+this.steps+" Grade:"+this.grade);
     }

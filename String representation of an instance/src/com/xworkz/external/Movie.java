@@ -12,9 +12,16 @@ public class Movie extends Appu {
         this.name=name;
         this.rating=rating;
     }
-
-
     @Override
+    public int hashCode()
+    {
+        System.out.println("Default:"+super.hashCode());
+        return 88;
+    }
+    @Override
+
+
+
     public String toString()
     {
         return ("Name: "+this.name+" Grade: "+this.grade+" Rating :"+this.rating);

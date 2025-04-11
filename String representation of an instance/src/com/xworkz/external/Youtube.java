@@ -11,6 +11,13 @@ public class Youtube extends App {
         this.number=number;
         this.grade=grade;
     }
+    @Override
+    public int hashCode()
+    {
+        System.out.println("Default:"+super.hashCode());
+        return 64;
+    }
+    @Override
     public String toString(){
         return (" Name:"+this.name+" No:"+this.number+" Grade:"+this.grade);
     }

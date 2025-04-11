@@ -12,6 +12,13 @@ public class Music extends Appu {
         this.name=name;
         this.rating=rating;
     }
+    @Override
+    public int hashCode()
+    {
+        System.out.println("Default:"+super.hashCode());
+        return 33;
+    }
+    @Override
 
 
     public String toString()

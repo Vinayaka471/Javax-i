@@ -11,6 +11,13 @@ public class TravelBag extends Bag {
         this.grade=grade;
         this.cost=cost;
     }
+    @Override
+    public int hashCode()
+    {
+        System.out.println("Default:"+super.hashCode());
+        return 153;
+    }
+
 
     @Override
     public String toString() {

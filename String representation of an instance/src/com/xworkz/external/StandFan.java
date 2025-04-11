@@ -12,6 +12,12 @@ public class StandFan extends Fan {
         this.name=name;
         this.rating=rating;
     }
+    @Override
+    public int hashCode()
+    {
+        System.out.println("Default:"+super.hashCode());
+        return 68;
+    }
 
 
     @Override

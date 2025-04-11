@@ -11,6 +11,13 @@ public class Laptop extends Gadgets {
         this.color=color;
         this.grade=grade;
     }
+    @Override
+    public int hashCode()
+    {
+        System.out.println("Default:"+super.hashCode());
+        return 32;
+    }
+    @Override
    public String toString(){
         return ("Brand: "+this.brand+" Grade: "+this.grade+" Color: "+this.color);
    }

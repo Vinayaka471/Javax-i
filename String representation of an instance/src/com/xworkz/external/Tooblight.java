@@ -11,6 +11,12 @@ public class Tooblight  extends Bulb {
         this.grade=grade;
         this.cost=cost;
     }
+    @Override
+    public int hashCode()
+    {
+        System.out.println("Default:"+super.hashCode());
+        return 49;
+    }
 
     @Override
     public String toString() {

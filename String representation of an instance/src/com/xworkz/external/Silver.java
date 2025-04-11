@@ -11,6 +11,13 @@ public class Silver extends Metal {
         this.weight=weight;
         this.grade=grade;
     }
+    @Override
+    public int hashCode()
+    {
+        System.out.println("Default:"+super.hashCode());
+        return 64;
+    }
+    @Override
     public String toString(){
         return(" Color:"+this.color+" Weight:"+this.weight+" Grade:"+this.grade);
 

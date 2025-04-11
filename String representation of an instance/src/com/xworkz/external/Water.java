@@ -11,6 +11,13 @@ public class Water extends Liquid {
         this.grade=grade;
         this.brand=brand;
     }
+    @Override
+    public int hashCode()
+    {
+        System.out.println("Default:"+super.hashCode());
+        return 161;
+    }
+    @Override
     public String toString()
     {
         return("Brand:"+this.brand+" Cost:"+this.cost+" Grade:"+this.grade);

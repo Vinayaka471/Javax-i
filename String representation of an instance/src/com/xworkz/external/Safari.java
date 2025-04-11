@@ -11,6 +11,13 @@ public class Safari extends Bag {
         this.cost=cost;
         this.grade=grade;
     }
+    @Override
+    public int hashCode()
+    {
+        System.out.println("Default:"+super.hashCode());
+        return 77;
+    }
+    @Override
     public String toString(){
         return(" Color:"+this.color+" Cost:"+this.cost+" Grade:"+this.grade);
 

@@ -11,6 +11,13 @@ public class Doctor extends Hospital {
         this.location=location;
         this.number=number;
     }
+    @Override
+    public int hashCode()
+    {
+        System.out.println("Default:"+super.hashCode());
+        return 16;
+    }
+    @Override
     public String toString()
     {
         return ("Name: "+this.name+" Location:" +this.location+" Number:"+this.number);

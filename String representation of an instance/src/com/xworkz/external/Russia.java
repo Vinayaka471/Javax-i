@@ -12,6 +12,13 @@ public class Russia extends Nation {
         this.name=name;
 
     }
+    @Override
+    public int hashCode()
+    {
+        System.out.println("Default:"+super.hashCode());
+        return 94;
+    }
+    @Override
     public String toString()
     {
         return ("Name: "+this.name+" Animal: "+this.animal+" Grade: "+this.grade);

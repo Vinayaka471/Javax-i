@@ -11,6 +11,13 @@ public class SunFlower extends Flower {
         this.cost=cost;
         this.grade=grade;
     }
+    @Override
+    public int hashCode()
+    {
+        System.out.println("Default:"+super.hashCode());
+        return 35;
+    }
+    @Override
     public String toString(){
         return(" Color:"+this.color+" Weight:"+this.cost+" Grade:"+this.grade);
 
