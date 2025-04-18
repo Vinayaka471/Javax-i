@@ -17,9 +17,4 @@ public class TrafficRulls implements Traffic {
     public void parkingRulls() {
         System.out.println("Parking Rulls");
     }
-
-    @Override
-    public void rules() {
-        System.out.println("Rules Driving");
-    }
 }

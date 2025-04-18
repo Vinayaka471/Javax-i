@@ -16,10 +16,6 @@ public class Destination implements car {
     @Override
     public void rulls() {
         System.out.println("Driving Rulls");
-    }
 
-    @Override
-    public void carRules() {
-        System.out.println("Rules of Car");
     }
 }

@@ -4,8 +4,4 @@ public interface Room {
     void rentRull();
     void cleanRulls();
     void lockRulls();
-    default void rules()
-    {
-        System.out.println("Rules of Room");
-    }
 }

@@ -17,9 +17,4 @@ public class TanmayRule implements Tanmay {
     public void examRulls() {
         System.out.println("Arun Exam Rulls");
     }
-
-    @Override
-    public void rules() {
-        System.out.println("Rules of Tanmya");
-    }
 }

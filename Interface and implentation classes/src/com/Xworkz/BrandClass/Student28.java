@@ -33,11 +33,6 @@ public class Student28 implements Abhi, Advik, Aakhil, Hotel, Buy {
     }
 
     @Override
-    public void rules() {
-        System.out.println("Student Rules");
-    }
-
-    @Override
     public void documentRull() {
         System.out.println("Document Rules");
 

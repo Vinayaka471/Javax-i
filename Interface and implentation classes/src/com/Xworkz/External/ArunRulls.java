@@ -17,9 +17,4 @@ public class ArunRulls implements Arun {
     public void examRulls() {
         System.out.println("Arun Exam Rulls");
     }
-
-    @Override
-    public void Rules() {
-        System.out.println("Rules of Student");
-    }
 }

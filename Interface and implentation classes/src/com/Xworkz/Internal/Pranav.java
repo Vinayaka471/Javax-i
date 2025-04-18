@@ -6,7 +6,4 @@ public interface Pranav {
     void gameRulls();
 
     void examRulls();
-    default void rules(){
-        System.out.println("Rules of the rules");
-    }
 }

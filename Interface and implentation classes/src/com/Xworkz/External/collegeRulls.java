@@ -17,9 +17,4 @@ public class collegeRulls implements college {
     public void courseRulls() {
         System.out.println("Course Rulls");
     }
-
-    @Override
-    public void rules() {
-        System.out.println("Rules");
-    }
 }

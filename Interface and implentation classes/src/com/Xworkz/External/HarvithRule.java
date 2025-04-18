@@ -11,15 +11,12 @@ public class HarvithRule implements Harvith {
     @Override
     public void gameRulls() {
         System.out.println("Game Rulls For Student.");
+
     }
 
     @Override
     public void examRulls() {
         System.out.println("Exam Rulls for Student.");
-    }
 
-    @Override
-    public void rules() {
-        System.out.println("Rules of the Harvith");
     }
 }

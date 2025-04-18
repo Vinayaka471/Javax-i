@@ -4,8 +4,4 @@ public interface college {
     void feesRulls();
     void streemRulls();
     void courseRulls();
-    default void rules()
-    {
-        System.out.println("Rules");
-    }
 }

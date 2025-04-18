@@ -20,10 +20,5 @@ public class Student12 implements Tarun, Tejas {
         System.out.println("Exam Rulls for Student.");
 
     }
-
-    @Override
-    public void rules() {
-        System.out.println("Rules is the Rulse");
-    }
 }
 

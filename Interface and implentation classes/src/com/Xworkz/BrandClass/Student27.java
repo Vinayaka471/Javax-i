@@ -33,11 +33,6 @@ public class Student27 implements Abhi, Advik, Aakhil, Sell, Buy {
     }
 
     @Override
-    public void rules() {
-
-    }
-
-    @Override
     public void documentRull() {
         System.out.println("Document Rules");
 

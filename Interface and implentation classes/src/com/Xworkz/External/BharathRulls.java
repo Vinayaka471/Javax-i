@@ -11,15 +11,12 @@ public class BharathRulls implements Bhrath {
     @Override
     public void gameRulls() {
         System.out.println("Bharath Game Rulls");
+
     }
 
     @Override
     public void examRulls() {
         System.out.println("Bharath Exam Rulls");
-    }
 
-    @Override
-    public void rules() {
-        System.out.println("Rules Student");
     }
 }

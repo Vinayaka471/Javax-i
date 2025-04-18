@@ -21,9 +21,4 @@ public class Student10 implements Vibhav, Vikas {
         System.out.println("Exam Rulls for Student.");
 
     }
-
-    @Override
-    public void rules() {
-        System.out.println("Rules");
-    }
 }

@@ -18,9 +18,4 @@ public class ReyanshRull implements Reyansh {
     public void examRulls() {
         System.out.println("Exam Rule");
     }
-
-    @Override
-    public void rules() {
-        System.out.println("Reyansh Rules");
-    }
 }

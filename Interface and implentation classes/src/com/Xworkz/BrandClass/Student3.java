@@ -22,11 +22,6 @@ public class Student3 implements Sell, School {
     }
 
     @Override
-    public void rules() {
-        System.out.println("Rule is Rule");
-    }
-
-    @Override
     public void timeRulls() {
         System.out.println("Time Rulls");
     }

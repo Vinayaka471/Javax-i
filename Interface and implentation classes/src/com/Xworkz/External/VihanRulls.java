@@ -17,10 +17,6 @@ public class VihanRulls implements Vihan {
     @Override
     public void presidentRulls() {
         System.out.println("President rulls");
-    }
 
-    @Override
-    public void Rules() {
-        System.out.println("Rules of The Vihaan");
     }
 }

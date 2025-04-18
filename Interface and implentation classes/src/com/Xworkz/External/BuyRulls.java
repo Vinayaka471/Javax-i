@@ -16,10 +16,6 @@ public class BuyRulls implements Buy {
     @Override
     public void changeRull() {
         System.out.println("Change Rulls");
-    }
 
-    @Override
-    public void rule() {
-        System.out.println("Rule");
     }
 }

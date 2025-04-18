@@ -20,9 +20,4 @@ public class Student2 implements Zaiden, Yash {
     public void examRulls() {
         System.out.println("Exam Rules");
     }
-
-    @Override
-    public void rules() {
-        System.out.println("Rules of The Things");
-    }
 }

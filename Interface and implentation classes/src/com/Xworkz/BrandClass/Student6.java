@@ -22,11 +22,6 @@ public class Student6 implements School, college {
     }
 
     @Override
-    public void rules() {
-        System.out.println("Rules is Rules");
-    }
-
-    @Override
     public void feesRulls() {
         System.out.println("Fees Rule");
 

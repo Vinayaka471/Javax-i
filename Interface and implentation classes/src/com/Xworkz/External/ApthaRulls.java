@@ -17,9 +17,4 @@ public class ApthaRulls implements Aptha {
     public void teacherRulls() {
         System.out.println("Teacher Rulls.");
     }
-
-    @Override
-    public void Rules() {
-        System.out.println("rules Student");
-    }
 }

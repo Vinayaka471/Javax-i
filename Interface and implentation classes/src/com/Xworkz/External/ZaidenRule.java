@@ -17,10 +17,7 @@ public class ZaidenRule implements Zaiden {
     @Override
     public void examRulls() {
         System.out.println("Exam Rulls for Student.");
+
     }
 
-    @Override
-    public void rules() {
-        System.out.println("Rules of the Zaiden");
-    }
 }
