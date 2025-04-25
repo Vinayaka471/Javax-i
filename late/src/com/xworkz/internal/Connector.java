@@ -1,2 +1,5 @@
-package com.xworkz.internal;public interface Connector {
+package com.xworkz.internal;
+
+public interface Connector {
+ void run();
 }
