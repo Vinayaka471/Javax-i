@@ -5,6 +5,6 @@ public class Constant {
         final int k=600;
         System.out.println(k);
 
-    
+
     }
 }
