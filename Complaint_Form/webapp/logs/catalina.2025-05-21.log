@@ -1,0 +1,74 @@
+21-May-2025 08:28:10.743 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.38
+21-May-2025 08:28:10.750 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 10 2020 08:20:30 UTC
+21-May-2025 08:28:10.750 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.38.0
+21-May-2025 08:28:10.750 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+21-May-2025 08:28:10.750 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+21-May-2025 08:28:10.751 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+21-May-2025 08:28:10.751 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\HP\.jdks\openjdk-23.0.1
+21-May-2025 08:28:10.751 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           23.0.1+11-39
+21-May-2025 08:28:10.751 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+21-May-2025 08:28:10.751 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\javax\Javax-i\Complaint_Form\webapp
+21-May-2025 08:28:10.751 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\HP\Downloads\apache-tomcat-9.0.38-windows-x64\apache-tomcat-9.0.38
+21-May-2025 08:28:10.768 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+21-May-2025 08:28:10.768 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+21-May-2025 08:28:10.768 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+21-May-2025 08:28:10.768 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+21-May-2025 08:28:10.768 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+21-May-2025 08:28:10.769 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\HP\Downloads\apache-tomcat-9.0.38-windows-x64\apache-tomcat-9.0.38
+21-May-2025 08:28:10.769 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\javax\Javax-i\Complaint_Form\webapp
+21-May-2025 08:28:10.769 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\javax\Javax-i\Complaint_Form\webapp\temp
+21-May-2025 08:28:10.769 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\javax\Javax-i\Complaint_Form\webapp\conf\logging.properties
+21-May-2025 08:28:10.769 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-May-2025 08:28:10.769 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\HP\Downloads\ideaIC-2024.1.4.win\lib\idea_rt.jar=52884:C:\Users\HP\Downloads\ideaIC-2024.1.4.win\bin
+21-May-2025 08:28:10.769 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+21-May-2025 08:28:10.770 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+21-May-2025 08:28:10.770 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+21-May-2025 08:28:10.780 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.25] using APR version [1.7.0].
+21-May-2025 08:28:10.780 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+21-May-2025 08:28:10.780 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+21-May-2025 08:28:10.805 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+21-May-2025 08:28:11.577 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+21-May-2025 08:28:11.730 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1432] milliseconds
+21-May-2025 08:28:11.812 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+21-May-2025 08:28:11.813 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.38]
+21-May-2025 08:28:11.829 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\javax\Javax-i\Complaint_Form\webapp\conf\Catalina\localhost\Vinayaka.xml]
+21-May-2025 08:28:12.306 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\javax\Javax-i\Complaint_Form\webapp\conf\Catalina\localhost\Vinayaka.xml] has finished in [476] ms
+21-May-2025 08:28:12.311 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+21-May-2025 08:28:12.326 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [594] milliseconds
+21-May-2025 08:32:52.470 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.38
+21-May-2025 08:32:52.478 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 10 2020 08:20:30 UTC
+21-May-2025 08:32:52.478 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.38.0
+21-May-2025 08:32:52.478 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+21-May-2025 08:32:52.479 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+21-May-2025 08:32:52.479 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+21-May-2025 08:32:52.479 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\HP\.jdks\openjdk-23.0.1
+21-May-2025 08:32:52.479 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           23.0.1+11-39
+21-May-2025 08:32:52.479 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+21-May-2025 08:32:52.479 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\javax\Javax-i\Complaint_Form\webapp
+21-May-2025 08:32:52.480 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\HP\Downloads\apache-tomcat-9.0.38-windows-x64\apache-tomcat-9.0.38
+21-May-2025 08:32:52.500 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+21-May-2025 08:32:52.500 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+21-May-2025 08:32:52.500 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+21-May-2025 08:32:52.501 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+21-May-2025 08:32:52.501 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+21-May-2025 08:32:52.501 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\HP\Downloads\apache-tomcat-9.0.38-windows-x64\apache-tomcat-9.0.38
+21-May-2025 08:32:52.501 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\javax\Javax-i\Complaint_Form\webapp
+21-May-2025 08:32:52.501 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\javax\Javax-i\Complaint_Form\webapp\temp
+21-May-2025 08:32:52.501 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\javax\Javax-i\Complaint_Form\webapp\conf\logging.properties
+21-May-2025 08:32:52.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-May-2025 08:32:52.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\HP\Downloads\ideaIC-2024.1.4.win\lib\idea_rt.jar=49703:C:\Users\HP\Downloads\ideaIC-2024.1.4.win\bin
+21-May-2025 08:32:52.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+21-May-2025 08:32:52.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+21-May-2025 08:32:52.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+21-May-2025 08:32:52.678 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.25] using APR version [1.7.0].
+21-May-2025 08:32:52.678 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+21-May-2025 08:32:52.678 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+21-May-2025 08:32:52.689 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+21-May-2025 08:32:53.681 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+21-May-2025 08:32:53.905 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1893] milliseconds
+21-May-2025 08:32:54.038 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+21-May-2025 08:32:54.039 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.38]
+21-May-2025 08:32:54.061 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\javax\Javax-i\Complaint_Form\webapp\conf\Catalina\localhost\Vinayaka.xml]
+21-May-2025 08:32:54.812 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\javax\Javax-i\Complaint_Form\webapp\conf\Catalina\localhost\Vinayaka.xml] has finished in [749] ms
+21-May-2025 08:32:54.819 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+21-May-2025 08:32:54.836 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [928] milliseconds
