@@ -15,7 +15,7 @@ public class Mobile {
 
 
         System.out.println(a/b);
-        System.out.println(a/(float)b);
+        System.out.println((float)a/b);
 
 
         System.out.println(a%b);
