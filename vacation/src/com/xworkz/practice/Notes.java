@@ -1,7 +1,9 @@
 package com.xworkz.practice;
 
 
-// STATIC
+//STATIC
+
+
 public class Notes {
     static String COllege="PESITM";
 
@@ -10,6 +12,10 @@ public class Notes {
     }
 }
 
+
+// Static belongs to Class.
+
+// Something that is fixed. Does not change at runtime.
 
 
 

@@ -1,5 +1,9 @@
 package com.xworkz.practice;
 
+
+// DYNAMIC
+
+
 public class Towel {
     String color;
 
@@ -10,3 +14,11 @@ public class Towel {
 
     }
 }
+
+
+// Dynamic belongs to object.
+
+// It is created while running.
+
+
+// Memory is given when you create  an object
