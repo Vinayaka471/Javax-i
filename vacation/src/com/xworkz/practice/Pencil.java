@@ -11,7 +11,7 @@ public class Pencil {
     }
 }
 
-//
+// Adding two Strings
 
 class Rubber{
     String rubber1="Party";
