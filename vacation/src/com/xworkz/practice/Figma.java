@@ -2,11 +2,14 @@ package com.xworkz.practice;
 
 public class Figma {
     public static void main(String[] args) {
-        int i=100;
+        int i=47;
         if(i>=500){
-            System.out.println("The Number is not correct");
+            System.out.println("The Number is invalid");
         } else if (i<=100) {
-            System.out.println("The number is right or approximately near to hundred");
+            System.out.println("The number is valid");
+        }
+        else{
+            System.out.println("The number is not match the conditions");
         }
     }
 }
