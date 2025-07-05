@@ -3,7 +3,7 @@ package com.xworkz.practice;
 public class Rim {
     public static void main(String[] args) {
         String rim="Indus 555 TMT";
-        System.out.println(rim.charAt(4));
+        System.out.println(rim.charAt(11));
     }
 }
 
