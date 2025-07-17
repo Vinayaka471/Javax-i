@@ -42,3 +42,4 @@ public class Student {
     }
 }
 
+//Added Student class with static methods to calculate average and assign grade based on marks
