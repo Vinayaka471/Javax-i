@@ -1,0 +1,29 @@
+class Byte
+{
+	public static void main(String[] args)
+	{
+		byte age=10;
+		byte bike=20;
+		byte chocklate=30;
+		byte keys=50;
+		byte car=15;
+		System.out.println("Initinal Values;");
+		System.out.println("Age: "+age);
+		System.out.println("Bike: "+bike);
+		System.out.println("Chocklate: "+chocklate);
+		System.out.println("keys: "+keys);
+		System.out.println("car: "+car);
+		
+		age=5;
+		bike=15;
+		chocklate=25;
+		keys=45;
+		car=4;
+		System.out.println("Re-Initinal values: ");
+		System.out.println("Age: "+age);
+		System.out.println("Bike: "+bike);
+		System.out.println("Chocklate: "+chocklate);
+		System.out.println("Keys: "+keys);
+		System.out.println("Car: "+car);
+	}
+}
