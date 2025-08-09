@@ -13,5 +13,10 @@ public class Terminator {
         System.out.println("Enter Your Age: ");
         int age=sc.nextInt();
 
+        System.out.println("User Details: ");
+        System.out.println("Your name is: "+name);
+        System.out.println("====================");
+        System.out.println("Your age is: "+age);
+
     }
 }
