@@ -1,5 +1,8 @@
 package com.xworkz.practice;
 
+
+// Methods of Math Class
+
 public class Speaker {
     public static void main(String[] args) {
         int a=64;
@@ -22,7 +25,7 @@ public class Speaker {
         float g= 14.1F;
         float l= 226.3F;
         float q= (float) Math.sqrt(l);
-        System.out.println(l);
+        System.out.println(q);
 
         double w=86.5;
         double r=15.45;
