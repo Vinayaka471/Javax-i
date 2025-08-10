@@ -9,6 +9,9 @@ public class Pouch {
         int age=Integer.parseInt(JOptionPane.showInputDialog("Enter Your Age"));
         JOptionPane.showMessageDialog(null,"Your age "+age+" years old");
 
+        double height=Double.parseDouble(JOptionPane.showInputDialog("Enter Your Height"));
+        JOptionPane.showMessageDialog(null,"Your "+height+" feet tall");
+
 
     }
 }
