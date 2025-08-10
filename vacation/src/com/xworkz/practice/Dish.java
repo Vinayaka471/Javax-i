@@ -16,7 +16,7 @@ public class Dish {
 
 //        double k=random.nextDouble();
 //        System.out.println(k);
-        
+
         boolean g=random.nextBoolean(); // It will print either true or false
         System.out.println(g);
 
