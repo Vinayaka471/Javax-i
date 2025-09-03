@@ -11,7 +11,7 @@ public class Tiles {
                 System.out.println("This is Acer Laptop");
             }
             case "HP" -> {
-                System.out.println("This is HO Laptop");
+                System.out.println("This is HP Laptop");
             }
             case "Asus" -> {
                 System.out.println("This is Asus Laptop");
