@@ -10,8 +10,17 @@ public class Note {
         else
         {
             System.out.println("User Bloked");
+        }                    // Logical OR Operator, denoted by |
+
+        String Shivamogga="Malenadu";
+
+        if(Shivamogga=="Malnad" || Shivamogga=="Malenadu"){
+            System.out.println("The Malenadu region Shivamogga");
+        }
+        else {
+            System.out.println("It is not Malenadu Region");
         }
     }
 }
 
-        // Logical OR Operator
+        // Logical Short Circuit OR Operator, denoted by ||
