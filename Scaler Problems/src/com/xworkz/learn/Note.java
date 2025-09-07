@@ -12,9 +12,9 @@ public class Note {
             System.out.println("User Bloked");
         }                    // Logical OR Operator, denoted by |
 
-        String Shivamogga="Malenadu";
+        String Shivamogga="Sahyadri";
 
-        if(Shivamogga=="Malnad" || Shivamogga=="Malenadu"){
+        if(Shivamogga=="Sahyadri" || Shivamogga=="Malenadu"){
             System.out.println("The Malenadu region Shivamogga");
         }
         else {
