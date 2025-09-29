@@ -8,5 +8,6 @@ public class Printer {
         System.out.println("Continue the practice with new tools");
         System.out.println("Building Apps");
         System.out.println("Navarathri Days");
+        System.out.println("Need effort");
     }
 }
