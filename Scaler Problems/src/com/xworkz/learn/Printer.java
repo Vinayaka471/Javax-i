@@ -12,5 +12,6 @@ public class Printer {
         System.out.println("Starting New Cheatcode App");
         System.out.println("Reading Books");
         System.out.println("Cleaning");
+        System.out.println("Pubg and Freefire tournament app");
     }
 }
