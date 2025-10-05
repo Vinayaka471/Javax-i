@@ -13,5 +13,6 @@ public class Printer {
         System.out.println("Reading Books");
         System.out.println("Cleaning");
         System.out.println("Pubg and Freefire tournament app");
+        System.out.println("Today is a Sunday");
     }
 }
