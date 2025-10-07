@@ -14,5 +14,6 @@ public class Printer {
         System.out.println("Cleaning");
         System.out.println("Pubg and Freefire tournament app");
         System.out.println("Today is a Sunday");
+        System.out.println("Tournament Admin App");
     }
 }
