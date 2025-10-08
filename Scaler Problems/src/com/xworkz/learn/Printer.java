@@ -16,5 +16,6 @@ public class Printer {
         System.out.println("Today is a Sunday");
         System.out.println("Tournament Admin App");
         System.out.println("Almost done");
+        System.out.println("User app and Admin app");
     }
 }
