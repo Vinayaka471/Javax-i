@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Context docBase="C:\javax\Javax-i\Complaint_Form\webapp">
-  <Resources cacheMaxSize="10240">
-    <PostResources base="C:/Users/HP/Downloads/apache-tomcat-9.0.38-windows-x64/apache-tomcat-9.0.38/lib/servlet-api.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/servlet-api.jar"/>
-  </Resources>
-</Context>
