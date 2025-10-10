@@ -17,5 +17,6 @@ public class Printer {
         System.out.println("Tournament Admin App");
         System.out.println("Almost done");
         System.out.println("User app and Admin app");
+        System.out.println("Razorpay not working properly");
     }
 }
