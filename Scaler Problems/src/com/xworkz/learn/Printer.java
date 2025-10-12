@@ -20,9 +20,13 @@ public class Printer {
         System.out.println("Razorpay not working properly");
         System.out.println("Doing in In app purchase");
         System.out.println("Creating Heart Disease Prediction Using Machine Learning Project Repository");
-        int a=10;
-        int b=5;
-        int c=a/b;
-        System.out.println(c);
+//        int a=10;
+//        int b=5;
+//        int c=a/b;
+//        System.out.println(c);
+        int g=60;
+        int l=17;
+        int n=g+l;
+        System.out.println(n);
     }
 }
