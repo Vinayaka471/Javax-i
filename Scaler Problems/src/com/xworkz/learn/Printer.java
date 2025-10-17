@@ -24,9 +24,13 @@ public class Printer {
 //        int b=5;
 //        int c=a/b;
 //        System.out.println(c);
-        int g=60;
-        int l=17;
-        int n=g+l;
+//        int g=60;
+//        int l=17;
+//        int n=g+l;
+//        System.out.println(n);
+        int k=50;
+        int b=14;
+        int n=k-b;
         System.out.println(n);
     }
 }
