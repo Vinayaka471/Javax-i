@@ -38,9 +38,15 @@ public class Printer {
 //        int d=k*y;
 //        System.out.println(d);
 
-        int d=90;
-        int l=40;
-        int k=d-l;
-        System.out.println(k);
+//        int d=90;
+//        int l=40;
+//        int k=d-l;
+//        System.out.println(k);
+
+        int l=89;
+        int b=64;
+        int s=l/b;
+        System.out.println(s);
+
     }
 }
