@@ -43,10 +43,16 @@ public class Printer {
 //        int k=d-l;
 //        System.out.println(k);
 
-        int l=89;
-        int b=64;
-        int s=l/b;
-        System.out.println(s);
+//        int l=89;
+//        int b=64;
+//        int s=l/b;
+//        System.out.println(s);
+
+
+        int t=98;
+        int m=46;
+        int q=t+m;
+        System.out.println(q);
 
     }
 }
