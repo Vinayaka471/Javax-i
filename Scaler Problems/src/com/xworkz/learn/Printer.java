@@ -60,5 +60,7 @@ public class Printer {
         int k=l/m;
         System.out.println(k);
 
+
+
     }
 }
