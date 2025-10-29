@@ -54,11 +54,16 @@ public class Printer {
 //        int q=t+m;
 //        System.out.println(q);
 
-        System.out.println("Implementing Firebase and One Signal in Flutter App");
-        int l=56;
-        int m=47;
-        int k=l/m;
-        System.out.println(k);
+//        System.out.println("Implementing Firebase and One Signal in Flutter App");
+//        int l=56;
+//        int m=47;
+//        int k=l/m;
+//        System.out.println(k);
+
+        int y=466;
+        int k=11;
+        int v=y+k;
+        System.out.println(v);
 
 
 
