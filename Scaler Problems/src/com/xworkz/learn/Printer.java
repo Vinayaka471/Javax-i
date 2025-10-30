@@ -1,5 +1,7 @@
 package com.xworkz.learn;
 
+import java.util.Scanner;
+
 public class Printer {
     public static void main(String[] args) {
         System.out.println("Little Progress");
@@ -60,10 +62,23 @@ public class Printer {
 //        int k=l/m;
 //        System.out.println(k);
 
-        int y=466;
-        int k=11;
-        int v=y+k;
-        System.out.println(v);
+//        int y=466;
+//        int k=11;
+//        int v=y+k;
+//        System.out.println(v);
+
+        Scanner sc=new Scanner(System.in);
+        System.out.println("Enter number a: ");
+        int a=sc.nextInt();
+
+        System.out.println("Enter number b: ");
+        int b=sc.nextInt();
+        if (a == b) {
+            System.out.println("Equal");
+        } else {
+            System.out.println("Not Equal");    // Finding the two numbers are equal or not
+        }
+
 
 
 
