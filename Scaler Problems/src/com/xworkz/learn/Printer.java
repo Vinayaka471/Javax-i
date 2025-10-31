@@ -67,17 +67,29 @@ public class Printer {
 //        int v=y+k;
 //        System.out.println(v);
 
-        Scanner sc=new Scanner(System.in);
-        System.out.println("Enter number a: ");
-        int a=sc.nextInt();
+//        Scanner sc=new Scanner(System.in);
+//        System.out.println("Enter number a: ");
+//        int a=sc.nextInt();
+//
+//        System.out.println("Enter number b: ");
+//        int b=sc.nextInt();
+//        if (a == b) {
+//            System.out.println("Equal");
+//        } else {
+//            System.out.println("Not Equal");    // Finding the two numbers are equal or not
+//        }
 
-        System.out.println("Enter number b: ");
-        int b=sc.nextInt();
-        if (a == b) {
-            System.out.println("Equal");
-        } else {
-            System.out.println("Not Equal");    // Finding the two numbers are equal or not
-        }
+        Scanner sc=new Scanner(System.in);
+        System.out.println("Enter a: ");
+            int a=sc.nextInt();
+
+        System.out.println("Enter b: ");
+            int b=sc.nextInt();
+            if((a ^b)==0){
+                System.out.println("Two numbers are equal");
+            } else {
+                System.out.println("Two numbers are not equal");
+            }
 
 
 
