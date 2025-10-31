@@ -79,17 +79,22 @@ public class Printer {
 //            System.out.println("Not Equal");    // Finding the two numbers are equal or not
 //        }
 
-        Scanner sc=new Scanner(System.in);
-        System.out.println("Enter a: ");
-            int a=sc.nextInt();
+//        Scanner sc=new Scanner(System.in);
+//        System.out.println("Enter a: ");
+//            int a=sc.nextInt();
+//
+//        System.out.println("Enter b: ");
+//            int b=sc.nextInt();
+//            if((a ^b)==0){
+//                System.out.println("Two numbers are equal");
+//            } else {
+//                System.out.println("Two numbers are not equal");
+//            }
 
-        System.out.println("Enter b: ");
-            int b=sc.nextInt();
-            if((a ^b)==0){
-                System.out.println("Two numbers are equal");
-            } else {
-                System.out.println("Two numbers are not equal");
-            }
+        int a=47;
+        int x=35;
+        int d=a-x;
+        System.out.println(d);
 
 
 
