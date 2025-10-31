@@ -90,13 +90,13 @@ public class Printer {
 //            } else {
 //                System.out.println("Two numbers are not equal");
 //            }
+//
+//        int a=47;
+//        int x=35;
+//        int d=a-x;
+//        System.out.println(d);
 
-        int a=47;
-        int x=35;
-        int d=a-x;
-        System.out.println(d);
-
-
+        System.out.println("Developing 2nd Caledar App by using Flutter");
 
 
     }
