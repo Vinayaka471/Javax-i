@@ -98,6 +98,8 @@ public class Printer {
 
 //        System.out.println("Developing 2nd Caledar App by using Flutter");
         System.out.println("ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವದ ಶುಭಾಷಯಗಳು");
+        System.out.println("WORK IS WORSHIP");
+         
 
 
     }
