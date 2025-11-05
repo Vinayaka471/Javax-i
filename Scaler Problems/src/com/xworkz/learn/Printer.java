@@ -101,6 +101,7 @@ public class Printer {
         System.out.println("WORK IS WORSHIP");
         System.out.println("Solving errors");
         System.out.println("WFM on 4-11-2025");
+        System.out.println("App is getting crashed during it's first launch");
          
 
 
