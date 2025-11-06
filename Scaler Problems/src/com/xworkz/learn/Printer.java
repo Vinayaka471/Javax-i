@@ -105,7 +105,7 @@ public class Printer {
         System.out.println("Error in One Signal Notification");
         System.out.println("Can't load the website stuck in localhost");
         System.out.println("Error is in Onesignal notification class");
-         
+        System.out.println("Solve the error by removing onesignal notification class due to not used this old version it is not necessary");
 
 
     }
