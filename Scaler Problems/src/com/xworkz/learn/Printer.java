@@ -106,8 +106,8 @@ public class Printer {
         System.out.println("Can't load the website stuck in localhost");
         System.out.println("Error is in Onesignal notification class");
         System.out.println("Solve the error by removing onesignal notification class due to not used this old version it is not necessary");
-        System.out.println("Error in Playconsole. Due to the old SDK 34, need to use use SDK version 35");
-        
+        System.out.println("Error in Play console. Due to the old SDK 34, need to use use SDK version 35");
+        System.out.println("Solve the issue by apply SDK 36(which is from minimum 24 SDK upto 36 SDK");
 
 
     }
