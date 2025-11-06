@@ -104,6 +104,7 @@ public class Printer {
         System.out.println("App is getting crashed during it's first launch");
         System.out.println("Error in One Signal Notification");
         System.out.println("Can't load the website stuck in localhost");
+        System.out.println("Error is in Onesignal notification class");
          
 
 
