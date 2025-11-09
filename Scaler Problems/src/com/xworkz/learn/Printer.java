@@ -111,6 +111,7 @@ public class Printer {
         System.out.println("Published the first app in playstore that is Kannada Calendar 2026 app on 6th November 2026");
         System.out.println("Modifying the published app");
         System.out.println("Implementing the published app.");
+        System.out.println("Rearrange the design style of the app");
 
 
     }
