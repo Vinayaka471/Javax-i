@@ -114,5 +114,11 @@ public class Printer {
         System.out.println("Rearrange the design style of the app");
 
 
+        int i=60;
+        int r=91;
+        int f=r-i;
+        System.out.println(f);
+
+
     }
 }
