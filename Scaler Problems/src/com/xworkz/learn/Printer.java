@@ -114,10 +114,16 @@ public class Printer {
         System.out.println("Rearrange the design style of the app");
 
 
-        int i=60;
-        int r=91;
-        int f=r-i;
-        System.out.println(f);
+//        int i=60;
+//        int r=91;
+//        int f=r-i;
+//        System.out.println(f);
+
+
+int num=25;
+double result=num;
+        System.out.println("Integer value="+num);
+        System.out.println("Implicit cast double value="+result);      // Implicit type casting
 
 
     }
