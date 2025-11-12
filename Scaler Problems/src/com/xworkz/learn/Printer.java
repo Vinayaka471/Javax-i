@@ -117,14 +117,12 @@ public class Printer {
 //        int i=60;
 //        int r=91;
 //        int f=r-i;
-//        System.out.println(f);
+//        System.out.println(f);        // Implicit type casting
 
-
-int num=25;
-double result=num;
-        System.out.println("Integer value="+num);
-        System.out.println("Implicit cast double value="+result);      // Implicit type casting
-
+        int m=65;
+        int n=32;
+        int o=m+n;
+        System.out.println(o);
 
     }
 }
