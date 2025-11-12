@@ -119,10 +119,15 @@ public class Printer {
 //        int f=r-i;
 //        System.out.println(f);        // Implicit type casting
 
-        int m=65;
-        int n=32;
-        int o=m+n;
-        System.out.println(o);
+//        int m=65;
+//        int n=32;
+//        int o=m+n;
+//        System.out.println(o);
+
+        float k=25.4f;
+        float t=32.4f;
+        float d=k*t;
+        System.out.println(d);
 
     }
 }
