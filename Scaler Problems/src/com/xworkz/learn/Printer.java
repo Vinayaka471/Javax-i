@@ -117,17 +117,21 @@ public class Printer {
 //        int i=60;
 //        int r=91;
 //        int f=r-i;
-//        System.out.println(f);        // Implicit type casting
+//        System.out.println(f);
 
 //        int m=65;
 //        int n=32;
 //        int o=m+n;
 //        System.out.println(o);
 
-        float k=25.4f;
-        float t=32.4f;
-        float d=k*t;
-        System.out.println(d);
+//        float k=25.4f;
+//        float t=32.4f;
+//        float d=k*t;
+//        System.out.println(d);
+
+        double rat=47.5;
+        int result=(int)rat;
+        System.out.println(result);                // Explicit type casting
 
     }
 }
