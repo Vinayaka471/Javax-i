@@ -133,9 +133,12 @@ public class Printer {
 //        int result=(int)rat;
 //        System.out.println(result);                // Explicit type casting
 
-        int num=55;
-        double result=(int) num;
-        System.out.println(result);                  // Implicit type casting
+//        int num=55;
+//        double result=(int) num;
+//        System.out.println(result);                  // Implicit type casting
+
+        System.out.println("App is in review for the second update");
+
 
     }
 }
