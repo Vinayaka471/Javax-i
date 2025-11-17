@@ -139,6 +139,7 @@ public class Printer {
 
         System.out.println("App is in review for the second update");
         System.out.println("Updated version 2.13.0+13 release on 15-11-2025 at 13-25");
+        System.out.println("Implementing 2nd app");
 
 
     }
