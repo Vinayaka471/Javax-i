@@ -147,5 +147,11 @@ public class Printer {
         System.out.println("Adding new functions, working and implementing app by adding special days, festivals");
 
 
+        int t=45;
+        int d=63;
+        int l=t*d;
+        System.out.println(l);
+
+
     }
 }
