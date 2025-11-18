@@ -152,10 +152,14 @@ public class Printer {
 //        int l=t*d;
 //        System.out.println(l);
 
-        double q=46;
-        double l=23;
-        double v=q-l;
-        System.out.println(v);
+//        double q=46;
+//        double l=23;
+//        double v=q-l;
+//        System.out.println(v);
+
+        System.out.println("Simple java arithmetic operations");
+
+
 
 
     }
