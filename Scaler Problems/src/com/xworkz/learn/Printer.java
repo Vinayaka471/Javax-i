@@ -142,6 +142,7 @@ public class Printer {
         System.out.println("Implementing 2nd app");
         System.out.println("Implementing the 2nd app design");
         System.out.println("Applying new design for the 2nd app");
+        System.out.println("Change the app theme from orange, cream color into logo theme");
 
 
     }
