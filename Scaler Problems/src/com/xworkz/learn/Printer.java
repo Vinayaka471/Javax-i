@@ -144,6 +144,7 @@ public class Printer {
         System.out.println("Applying new design for the 2nd app");
         System.out.println("Change the app theme from orange, cream color into logo theme");
         System.out.println("Implementing Privacy policy, share app, ratting app by applying the respected links");
+        System.out.println("Adding new functions, working and implementing app by adding special days, festivals");
 
 
     }
