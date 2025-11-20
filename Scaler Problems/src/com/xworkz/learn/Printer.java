@@ -160,6 +160,7 @@ public class Printer {
         System.out.println("Simple java arithmetic operations");
         System.out.println("Updating the 2nd flutter app");
         System.out.println("Package error for 2nd app in play console");
+        System.out.println("2nd app review in play console");
 
 
 
