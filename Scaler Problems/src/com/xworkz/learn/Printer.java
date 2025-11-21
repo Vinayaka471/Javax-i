@@ -161,6 +161,7 @@ public class Printer {
         System.out.println("Updating the 2nd flutter app");
         System.out.println("Package error for 2nd app in play console");
         System.out.println("2nd app review in play console");
+        System.out.println("2nd app SBDMCD verison 4.0.1 published on 20 November 2025");
 
 
 
