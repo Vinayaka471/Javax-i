@@ -164,6 +164,7 @@ public class Printer {
         System.out.println("2nd app SBDMCD verison 4.0.1 published on 20 November 2025");
         System.out.println("1st app KDC 2nd updated version 2.14.0 published on 20th november 2025");
         System.out.println("1st app 3rd updated version 2.15.0 published on 22nd november 2025");
+        System.out.println("Firebase error in github");
 
 
 
