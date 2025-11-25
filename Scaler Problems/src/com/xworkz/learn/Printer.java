@@ -165,7 +165,7 @@ public class Printer {
         System.out.println("1st app KDC 2nd updated version 2.14.0 published on 20th november 2025");
         System.out.println("1st app 3rd updated version 2.15.0 published on 22nd november 2025");
         System.out.println("Firebase error in github");
-        System.out.println("Uploading some files of the 1st KC app");
+        System.out.println("Uploading some files of the 1st KDC 2026 app");
         System.out.println("KDC 2026 app published updated version 2.16.0+16");
 
 
