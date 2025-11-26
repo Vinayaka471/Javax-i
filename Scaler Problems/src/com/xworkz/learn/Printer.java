@@ -167,6 +167,7 @@ public class Printer {
         System.out.println("Firebase error in github");
         System.out.println("Uploading some files of the 1st KDC 2026 app");
         System.out.println("KDC 2026 app published updated version 2.16.0+16");
+        System.out.println("SBDMCD app updated version 4.12.0+12 published on 24th november 2026");
 
 
 
