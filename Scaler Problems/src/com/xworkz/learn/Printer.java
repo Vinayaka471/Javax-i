@@ -171,7 +171,8 @@ public class Printer {
         System.out.println("KPC_2026 2.0.0+10 updated on 29-11-2029 at 5:00 PM");
         System.out.println("KPC_2026 version 2.0.1+11 updated on 01-12-2025 at 4:30 PM");
         System.out.println("KDC_2026 and SBDMC_2026 app daily in app notification problem");
-        System.out.println("SBDMC_2026 In-App notification solved 03-12-2025 at 04:13 PM");
+        System.out.println("SBDMC_2026 In-App notification issue solved on 03-12-2025 at 04:13 PM");
+        System.out.println("KDC_2026 In-App notification issue solved on 04-12-2025 at 12:16 PM");
 
 
 
