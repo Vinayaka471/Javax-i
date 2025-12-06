@@ -173,6 +173,7 @@ public class Printer {
         System.out.println("KDC_2026 and SBDMC_2026 app daily in app notification problem");
         System.out.println("SBDMC_2026 In-App notification issue solved on 03-12-2025 at 04:13 PM");
         System.out.println("KDC_2026 In-App notification issue solved on 04-12-2025 at 12:16 PM");
+        System.out.println("SBDMC_2026 version 4.14.0+14 released on 04-12-2025 at 4:00 PM");
 
 
 
