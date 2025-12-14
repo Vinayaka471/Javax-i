@@ -176,7 +176,7 @@ public class Printer {
         System.out.println("SBDMC_2026 version 4.14.0+14 released on 04-12-2025 at 4:00 PM");
         System.out.println("Making offer website part to the official KDC_2026 Website");
         System.out.println("Implemented Content creators google form for KDC Website");
-        System.out.println();
+        System.out.println("Implementing KDC_2026 app for free calendar");
 
 
 
