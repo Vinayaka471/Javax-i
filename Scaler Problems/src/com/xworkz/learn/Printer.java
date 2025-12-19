@@ -173,13 +173,14 @@ public class Printer {
         System.out.println("KDC_2026 and SBDMC_2026 app daily in app notification problem");
         System.out.println("SBDMC_2026 In-App notification issue solved on 03-12-2025 at 04:13 PM");
         System.out.println("KDC_2026 In-App notification issue solved on 04-12-2025 at 12:16 PM");
-        System.out.println("SBDMC_2026 version 4.14.0+14 released on 04-12-2025 at 4:00 PM");
+        System.out.println("SBDMC_2026 app updated version 4.14.0+14 released on 04-12-2025 at 4:00 PM");
         System.out.println("Making offer website part to the official KDC_2026 Website");
         System.out.println("Implemented Content creators google form for KDC Website");
         System.out.println("Implementing KDC_2026 app for free calendar");
-        System.out.println("SBDMC_2026 Version 4.15.0+15 version released on 16 December 2025");
-        System.out.println("KDC_2026 app version 2.18.0+18 app update got reject due to policy violation because of using government related topic in app description");
-        System.out.println("KDC_2026 app version 2.18.0+18 released on 17th December 2025");
+        System.out.println("SBDMC_2026 app updated Version 4.15.0+15 version released on 16 December 2025");
+        System.out.println("KDC_2026 app updated version 2.18.0+18 app update got reject due to policy violation because of using government related topic in app description");
+        System.out.println("KDC_2026 app updated version 2.18.0+18 released on 17th December 2025");
+        System.out.println("KDC_2026 app updated version 2.19.0+19 released on 19th December 2025");
 
 
 
