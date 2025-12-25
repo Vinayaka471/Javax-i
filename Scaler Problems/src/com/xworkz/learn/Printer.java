@@ -182,6 +182,7 @@ public class Printer {
         System.out.println("KDC_2026 app updated version 2.18.0+18 released on 17th December 2025");
         System.out.println("KDC_2026 app updated version 2.19.0+19 released on 19th December 2025");
         System.out.println("Macbook Pro i7 from 24-12-2025");
+        System.out.println("December 25th 2025 Thursday Merry Christmas");
 
 
 
