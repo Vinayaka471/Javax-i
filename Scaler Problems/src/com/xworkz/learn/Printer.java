@@ -186,6 +186,7 @@ public class Printer {
         System.out.println("KD Educational app version 4.4.6+6 published on 25th December 2025 at 2:30 PM ");
         System.out.println("KD published updated version: 4.4.7+7 on 26th December 2025 at 12:30 PM (updated thing: Images load through the in-app not from link");
         System.out.println("KT app version: 2.4.1+11 published on 27th December 2025 at 5:40 PM");
+        System.out.println("Implementing KBW app");
 
 
 
