@@ -188,6 +188,7 @@ public class Printer {
         System.out.println("KT app version: 2.4.1+11 published on 27th December 2025 at 5:40 PM");
         System.out.println("Implementing KBW app");
         System.out.println("Implementing ML interface app");
+        System.out.println("BWK app shows child safety issue in console");
 
 
 
