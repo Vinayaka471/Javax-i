@@ -192,6 +192,7 @@ public class Printer {
         System.out.println("2025 Year end printing statement on 31st December 2025 at 08:08 PM");
         System.out.println("Implementing RR app");
         System.out.println("Implementing ML News app");
+        System.out.println("New Year 2026");
 
 
 
