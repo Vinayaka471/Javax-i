@@ -196,6 +196,7 @@ public class Printer {
         System.out.println("Designed Child Safety website for Play Console error for Birthday Wises App");
         System.out.println("Implementing Reels Reward App");
         System.out.println("Adding new designs for the Reels Reward App");
+        System.out.println("January 12th Swami Vivekanada Jayanthi, World Youths Day.");
 
 
 
