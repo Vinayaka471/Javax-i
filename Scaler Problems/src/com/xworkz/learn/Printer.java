@@ -198,6 +198,7 @@ public class Printer {
         System.out.println("Adding new designs for the Reels Reward App");
         System.out.println("January 12th Swami Vivekanada Jayanthi, World Youths Day.");
         System.out.println("Maari Jathre Kenchanala 14th january 2026");
+        System.out.println("Malnad Institution Open on 16th jan");
 
 
 
