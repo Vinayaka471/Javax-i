@@ -199,6 +199,7 @@ public class Printer {
         System.out.println("January 12th Swami Vivekanada Jayanthi, World Youths Day.");
         System.out.println("Maari Jathre Kenchanala 14th january 2026");
         System.out.println("Malnad Institution Open on 16th january 2026");
+        System.out.println("Welcome Home Hero HF Deluxe Pro on 19th january 2026");
 
 
 
