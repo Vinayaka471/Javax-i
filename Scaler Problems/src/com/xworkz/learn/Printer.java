@@ -201,6 +201,7 @@ public class Printer {
         System.out.println("Malnad Institution Open on 16th january 2026");
         System.out.println("Welcome Home Hero HF Deluxe Pro on 19th january 2026");
         System.out.println("Implementing Extension for instagram in chrome browser");
+        System.out.println("Implementing bio description and bio link in instagram extension");
 
 
 
