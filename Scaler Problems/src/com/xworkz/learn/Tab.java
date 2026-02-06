@@ -11,10 +11,15 @@ public class Tab {
 //        int y=s-k;
 //        System.out.println(y);
 
-        int f=97;
-        int n=75;
-        int t=f/n;
-        System.out.println(t);
+//        int f=97;
+//        int n=75;
+//        int t=f/n;
+//        System.out.println(t);
+
+        int x=78;
+        int y=34;
+        int z=x+y;
+        System.out.println(z);
     }
 }
 
