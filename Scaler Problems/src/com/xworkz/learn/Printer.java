@@ -209,13 +209,6 @@ public class Printer {
         System.out.println("Maha Shivarathri on 15th february 2026 Sunday");
         System.out.println("HELLO WORLD");
         System.out.println("Kannada AI published in playstore on 24th feb 2026 tuesday");
-
-
-
-
-
-
-
-
+        System.out.println("Chatpush extension not send the images it only send text message problem in 3rd march 2026");
     }
 }
